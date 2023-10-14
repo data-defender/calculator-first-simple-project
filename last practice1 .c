@@ -20,7 +20,7 @@ int main(){
 	printf("\n\n ------------- C A L C U L A T O R ------------- \n");
 	printf(reset);
 	printf(red);
-	printf("                   ITx Muhammad Samar");
+	printf("                   ITx Data Defender");
 	printf(reset);
 //closing the header section 
 
